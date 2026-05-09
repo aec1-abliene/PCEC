@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Parker County Electrical Contractors | Industrial Authority</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="icon" href="assets/logo.png" type="image/png">
+    
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Syncopate:wght@700&family=Manrope:wght@200;400;800&family=JetBrains+Mono:wght@400&display=swap');
+        
+        :root {
+            --pce-cobalt: #2E5BFF;   /* High-energy utility blue */
+            --pce-yellow: #F4FF00;   /* Safety Yellow */
+            --pce-slate: #0D0E10;    /* Architectural slate */
+            --pce-surface: #15171B;  /* Secondary slate */
+        }
+
+        body {
+            font-family: 'Manrope', sans-serif;
+            background-color: var(--pce-slate);
+            color: white;
+            margin: 0;
+            -webkit-font-smoothing: antialiased;
+            overflow-x: hidden;
+        }
+
+        .heading-bold { font-family: 'Syncopate', sans-serif; text-transform: uppercase; letter-spacing: -0.02em; }
+        .mono { font-family: 'JetBrains Mono', monospace; }
+
+        .global-scanner-track {
+            position: fixed;
+            left: 2.5rem; 
+            top: 0;
+            width: 1px; 
+            height: 100vh;
+            background: rgba(46, 91, 255, 0.2); 
+            z-index: 9999; 
+            pointer-events: none;
+        }
+
+        .global-scanner-light {
+            position: absolute;
+            left: -34px; 
+            width: 68px;  
+            height: 260px; 
+            background: radial-gradient(
+                ellipse at center, 
+                rgba(46, 91, 255, 0.5) 0%, 
+                rgba(46, 91, 255, 0.2) 25%, 
+                rgba(46, 91, 255, 0.05) 55%,
+                transparent 80%
+            );
+            box-shadow: 0 0 40px rgba(46, 91, 255, 0.12);
+            animation: knight-rider-vertical 2.8s ease-in-out infinite;
+            mix-blend-mode: screen; 
+            will-change: top;
+        }
+
+        @keyframes knight-rider-vertical {
+            0%, 100% { top: -25%; opacity: 0; }
+            10%, 90% { opacity: 1; }
+            50% { top: 100%; opacity: 1; }
+        }
+
+        .brand-seal {
+            width: 44px;
+            height: 44px;
+            border-radius: 50%;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: rgba(255,255,255,0.02);
+        }
+
+        .section-container {
+            padding: 8vw 5vw;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+            position: relative;
+            z-index: 10;
+        }
+
+        .mega-text {
+            font-size: clamp(3rem, 12vw, 15rem);
+            line-height: 0.8;
+            color: transparent;
+            -webkit-text-stroke: 1px rgba(255, 255, 255, 0.15);
+        }
+
+        .mega-text-solid {
+            font-size: clamp(3rem, 8vw, 10rem);
+            line-height: 0.9;
+        }
+
+        .btn-modern {
+            padding: 1.5rem 3rem;
+            border: 1px solid var(--pce-cobalt);
+            color: var(--pce-cobalt);
+            font-size: 11px;
+            font-weight: 800;
+            text-transform: uppercase;
+            letter-spacing: 0.4em;
+            transition: all 0.3s ease;
+            display: inline-block;
+        }
+
+        .btn-modern:hover { background: var(--pce-cobalt); color: white; }
+
+        .service-card {
+            background: rgba(255, 255, 255, 0.01);
+            border: 1px solid rgba(255, 255, 255, 0.03);
+            padding: 3.5rem;
+            transition: all 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+        }
+
+        .service-card:hover {
+            background: white;
+            color: var(--pce-slate);
+            transform: translateY(-10px);
+        }
+
+        ::-webkit-scrollbar { width: 4px; }
+        ::-webkit-scrollbar-track { background: var(--pce-slate); }
+        ::-webkit-scrollbar-thumb { background: var(--pce-cobalt); }
+    </style>
+</head>
+<body>
+
+    <div class="global-scanner-track">
+        <div class="global-scanner-light"></div>
+    </div>
+
+    <nav class="fixed top-0 w-full z-[500]">
+        <div class="flex justify-between items-center px-6 md:px-10 py-8 bg-black/80 backdrop-blur-md border-b border-white/5">
+            <div class="flex items-center gap-4">
+                <div class="brand-seal overflow-hidden border-none bg-transparent">
+                    <img src="assets/logo.png" alt="PCEC Logo" class="w-full h-full object-contain">
+                </div>
+                <span class="heading-bold text-xl tracking-tighter">PCEC<span class="text-[#2E5BFF]"></span></span>
+            </div>
+            <div class="flex items-center gap-8">
+                <a href="blog.html" class="mono text-[10px] text-zinc-400 hover:text-[#2E5BFF] transition-colors uppercase hidden md:block tracking-[0.2em]">Intelligence</a>
+                <span class="mono text-[10px] text-zinc-600 hidden md:block">TECL 17940 // MASTER VETTED</span>
+                <a href="tel:3252449933" class="heading-bold text-sm text-[#F4FF00]">325.244.9933</a>
+            </div>
+        </div>
+    </nav>
+
+    <section class="min-h-screen flex flex-col justify-end section-container relative overflow-hidden pt-32 lg:pt-40">
+        <div class="absolute top-[10%] -left-[5%] opacity-[0.06] pointer-events-none z-5">
+            <img src="assets/logo.png" alt="PCEC Watermark" class="w-[45vw] max-w-[600px] grayscale mix-blend-screen">
+        </div>
+        
+        <div class="mb-24 relative z-10">
+            <span class="mono text-[#2E5BFF] text-[10px] mb-8 block uppercase tracking-[0.6em]">Parker County // Weatherford, TX</span>
+            <h1 class="mega-text heading-bold mb-4">MASTERING</h1>
+            <h1 class="mega-text-solid heading-bold">THE <span class="text-[#F4FF00]">LOAD</span></h1>
+        </div>
+        
+        <div class="grid lg:grid-cols-12 gap-12 items-end relative z-10">
+            <div class="lg:col-span-5">
+                <p class="text-zinc-500 text-xl font-light leading-relaxed">
+                    Critical infrastructure authority since 1998. We specialize in precision high-voltage systems and certified industrial integration.
+                </p>
+            </div>
+            <div class="lg:col-span-4 lg:col-start-9 flex flex-col items-start lg:items-end">
+                <a href="#contact" class="btn-modern w-full lg:w-auto">Initiate Intake</a>
+            </div>
+        </div>
+    </section>
+
+    <section id="about" class="section-container bg-black relative z-10">
+        <div class="grid lg:grid-cols-12 gap-16 items-start">
+            <div class="lg:col-span-5">
+                <span class="mono text-[10px] text-zinc-500 uppercase tracking-widest block mb-4">Integrity // Reliability // Craftsmanship</span>
+                <h2 class="heading-bold text-4xl mb-8">WHY <span class="text-[#2E5BFF]">PCEC</span></h2>
+                <p class="text-zinc-400 font-light leading-relaxed mb-6">
+                    As Parker County’s trusted electrical partner, we are dedicated to providing superior electrical services built on a foundation of integrity, reliability, and expert craftsmanship. Our team of experienced, licensed electricians is committed to ensuring every project meets the highest standards of safety and quality.
+                </p>
+                <p class="text-zinc-400 font-light leading-relaxed">
+                    We pride ourselves on transparent communication and building lasting relationships within our community, making us the dependable choice for all your commercial and industrial electrical needs.
+                </p>
+            </div>
+            
+            <div class="lg:col-span-6 lg:col-start-7">
+                <div class="bg-white/5 p-10 border border-white/5 h-full transition-all duration-500 hover:bg-white/10 hover:border-white/10">
+                    <div class="flex items-center gap-4 mb-8">
+                        <i class="fas fa-shield-alt text-2xl text-[#F4FF00]"></i>
+                        <h3 class="heading-bold text-2xl">LEADERSHIP <span class="text-white">ROLE</span></h3>
+                    </div>
+                    <p class="text-zinc-400 font-light leading-relaxed mb-6">
+                        At Parker County Electrical Contractors, we are not just participants in the electrical industry; we are leaders who set the standard for excellence. Our commitment to superior craftsmanship, unwavering safety protocols, and staying at the forefront of the latest technologies has established us as a benchmark for quality in the region.
+                    </p>
+                    <p class="text-zinc-400 font-light leading-relaxed">
+                        We lead by example, demonstrating how integrity and expertise can achieve superior results, successfully tackling complex projects that push the boundaries of the trade and elevate the expectations for what a premier electrical contractor can provide.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="work" class="section-container bg-[#15171B]">
+        <div class="grid lg:grid-cols-3 gap-6">
+            <div class="service-card">
+                <i class="fas fa-bolt text-4xl mb-12 text-zinc-600"></i>
+                <h4 class="heading-bold text-xl mb-6">Heavy <span class="text-[#F4FF00]">Industrial</span></h4>
+                <p class="text-sm text-zinc-500 mb-10 leading-relaxed font-light">Substation maintenance and power factor correction for high-capacity plants.</p>
+                <div class="h-px w-12 bg-[#2E5BFF]"></div>
+            </div>
+            
+            <div class="service-card">
+                <i class="fas fa-city text-4xl mb-12 text-zinc-600"></i>
+                <h4 class="heading-bold text-xl mb-6"><span class="text-[#F4FF00]">Commercial</span></h4>
+                <p class="text-sm text-zinc-500 mb-10 leading-relaxed font-light">Municipal infrastructure and multi-unit medical facility power systems.</p>
+                <div class="h-px w-12 bg-[#2E5BFF]"></div>
+            </div>
+
+            <div class="service-card">
+                <i class="fas fa-charging-station text-4xl mb-12 text-zinc-600"></i>
+                <h4 class="heading-bold text-xl mb-6">Future <span class="text-[#F4FF00]">Ready</span></h4>
+                <p class="text-sm text-zinc-500 mb-10 leading-relaxed font-light">Certified renewable energy storage and Tesla industrial infrastructure.</p>
+                <div class="h-px w-12 bg-[#2E5BFF]"></div>
+            </div>
+        </div>
+    </section>
+
+    <footer id="contact" class="section-container bg-black">
+        <div class="grid lg:grid-cols-12 gap-16 items-start">
+            <div class="lg:col-span-6">
+                <h2 class="heading-bold text-5xl lg:text-6xl mb-12 leading-none">LET'S<br><span class="text-[#F4FF00]">INTEGRATE</span></h2>
+                <div class="grid md:grid-cols-2 gap-12">
+                    <div class="flex flex-col">
+                        <span class="mono text-[10px] text-zinc-600 uppercase mb-4">Direct</span>
+                        <a href="tel:3252449933" class="heading-bold text-3xl text-[#F4FF00]">325.244.9933</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="lg:col-span-6">
+                <div class="bg-white/5 p-10 border border-white/5">
+                    <form class="space-y-10">
+                        <div class="border-b border-white/10 pb-4">
+                            <label class="mono text-[9px] text-zinc-600 uppercase block mb-2">Project Authority</label>
+                            <input type="text" placeholder="NAME" class="bg-transparent w-full heading-bold text-xs outline-none text-white">
+                        </div>
+                        <div class="border-b border-white/10 pb-4">
+                            <label class="mono text-[9px] text-zinc-600 uppercase block mb-2">Scope</label>
+                            <textarea placeholder="SPECIFICATIONS" class="bg-transparent w-full heading-bold text-xs outline-none h-24 resize-none text-white"></textarea>
+                        </div>
+                        <button class="btn-modern w-full">Authorize Assessment</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="mt-32 pt-12 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-8">
+            <span class="mono text-[9px] text-zinc-600 uppercase tracking-[0.5em]">TECL #17940 // &copy; 2026</span>
+        </div>
+    </footer>
+
+</body>
+</html>

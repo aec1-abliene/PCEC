@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Intelligence | Parker County Electrical Contractors</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <!-- Swiper CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+
+    <link rel="icon" href="assets/logo.png" type="image/png">
+    
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Syncopate:wght@700&family=Manrope:wght@200;400;800&family=JetBrains+Mono:wght@400&display=swap');
+        
+        :root {
+            --pce-cobalt: #2E5BFF;   
+            --pce-yellow: #F4FF00;   
+            --pce-slate: #0D0E10;    
+            --pce-surface: #15171B;  
+        }
+
+        body {
+            font-family: 'Manrope', sans-serif;
+            background-color: var(--pce-slate);
+            color: white;
+            margin: 0;
+            -webkit-font-smoothing: antialiased;
+            overflow-x: hidden;
+        }
+
+        .heading-bold { font-family: 'Syncopate', sans-serif; text-transform: uppercase; letter-spacing: -0.02em; }
+        .mono { font-family: 'JetBrains Mono', monospace; }
+
+        .global-scanner-track {
+            position: fixed;
+            left: 2.5rem; 
+            top: 0;
+            width: 1px; 
+            height: 100vh;
+            background: rgba(46, 91, 255, 0.2); 
+            z-index: 9999; 
+            pointer-events: none;
+        }
+
+        .global-scanner-light {
+            position: absolute;
+            left: -34px; 
+            width: 68px;  
+            height: 260px; 
+            background: radial-gradient(
+                ellipse at center, 
+                rgba(46, 91, 255, 0.5) 0%, 
+                rgba(46, 91, 255, 0.2) 25%, 
+                rgba(46, 91, 255, 0.05) 55%,
+                transparent 80%
+            );
+            box-shadow: 0 0 40px rgba(46, 91, 255, 0.12);
+            animation: knight-rider-vertical 2.8s ease-in-out infinite;
+            mix-blend-mode: screen; 
+            will-change: top;
+        }
+
+        @keyframes knight-rider-vertical {
+            0%, 100% { top: -25%; opacity: 0; }
+            10%, 90% { opacity: 1; }
+            50% { top: 100%; opacity: 1; }
+        }
+
+        .brand-seal {
+            width: 44px;
+            height: 44px;
+            border-radius: 50%;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: rgba(255,255,255,0.02);
+        }
+
+
+        /* Swiper Customizations */
+        .swiper-wrapper { align-items: stretch; }
+        .swiper-slide { height: auto; }
+        .news-scrollbar {
+            background: rgba(255, 255, 255, 0.1);
+            height: 4px;
+            border-radius: 4px;
+        }
+        .swiper-scrollbar-drag { background: var(--pce-cobalt); }
+
+        /* Modal Scrollbar */
+        .custom-scrollbar::-webkit-scrollbar { width: 8px; }
+        .custom-scrollbar::-webkit-scrollbar-track { background: rgba(255,255,255,0.02); }
+        .custom-scrollbar::-webkit-scrollbar-thumb { background: var(--pce-cobalt); border-radius: 4px; }
+    </style>
+</head>
+<body>
+
+    <div class="global-scanner-track">
+        <div class="global-scanner-light"></div>
+    </div>
+    <div class="fixed top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[80vw] max-w-[800px] opacity-[0.04] pointer-events-none z-0">
+        <img src="assets/logo.png" alt="PCEC Watermark" class="w-full h-full grayscale mix-blend-screen object-contain">
+    </div>
+
+    <!-- NAVIGATION -->
+    <nav class="fixed top-0 w-full z-[500]">
+        <div class="flex justify-between items-center px-6 md:px-10 py-8 bg-black/80 backdrop-blur-md border-b border-white/5">
+            <a href="index.html" class="flex items-center gap-4 hover:opacity-80 transition-opacity">
+                <div class="brand-seal overflow-hidden border-none bg-transparent">
+                    <img src="assets/logo.png" alt="PCEC Logo" class="w-full h-full object-contain">
+                </div>
+                <span class="heading-bold text-xl tracking-tighter">PCEC<span class="text-[#2E5BFF]"></span></span>
+            </a>
+            <div class="flex items-center gap-8">
+                <a href="blog.html" class="mono text-[10px] text-[#2E5BFF] uppercase hidden md:block tracking-[0.2em] border-b border-[#2E5BFF] pb-1">Intelligence</a>
+                <span class="mono text-[10px] text-zinc-600 hidden md:block tracking-[0.2em]">TECL 17940 // MASTER VETTED</span>
+                <a href="tel:3252449933" class="heading-bold text-sm text-[#F4FF00]">325.244.9933</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- BLOG HEADER -->
+    <header class="relative pt-48 pb-10">
+        <div class="max-w-7xl mx-auto px-6 relative z-10 w-full">
+            <div class="inline-flex items-center gap-4 bg-white/5 border-l-4 border-[#F4FF00] px-5 py-3 mb-8">
+                <span class="mono text-[11px] font-black uppercase tracking-[0.25em] text-white">Sentinel Briefing</span>
+            </div>
+            
+            <div class="flex flex-col md:flex-row justify-between items-start md:items-end gap-6 border-b border-white/5 pb-10">
+                <h1 class="text-6xl lg:text-8xl font-black heading-bold text-white uppercase leading-[0.85]">
+                    INDUSTRY <span class="text-[#2E5BFF]">INTEL</span>
+                </h1>
+                
+                <!-- Swiper Navigation Arrows -->
+                <div class="flex gap-4">
+                    <button class="news-prev w-12 h-12 rounded-full border border-zinc-700 flex items-center justify-center hover:bg-[#2E5BFF] hover:text-white transition-all">
+                        <i class="fas fa-chevron-left"></i>
+                    </button>
+                    <button class="news-next w-12 h-12 rounded-full border border-zinc-700 flex items-center justify-center hover:bg-[#2E5BFF] hover:text-white transition-all">
+                        <i class="fas fa-chevron-right"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- BLOG CONTENT AREA -->
+    <section class="py-10 relative z-10 min-h-[50vh] overflow-hidden">
+        <div class="max-w-7xl mx-auto px-6">
+            
+            <!-- Swiper Container -->
+            <div class="swiper news-swiper overflow-visible pb-10">
+                <div class="swiper-wrapper" id="news-container">
+                    <!-- Cards injected via JS -->
+                </div>
+                <!-- Scrollbar -->
+                <div class="news-scrollbar mt-12 swiper-scrollbar"></div>
+            </div>
+
+        </div>
+    </section>
+
+    <!-- FOOTER -->
+    <footer id="contact" class="bg-black pt-20 pb-10 relative z-10 border-t border-white/5 mt-20">
+        <div class="max-w-7xl mx-auto px-6">
+            <div class="grid lg:grid-cols-2 gap-16 items-start mb-20">
+                <div>
+                    <h2 class="heading-bold text-5xl mb-8 leading-none">PCEC<span class="text-[#2E5BFF]">_</span></h2>
+                    <div class="flex flex-col">
+                        <span class="mono text-[10px] text-zinc-600 uppercase mb-4 tracking-widest">Direct Line</span>
+                        <a href="tel:3252449933" class="heading-bold text-3xl text-[#F4FF00]">325.244.9933</a>
+                    </div>
+                </div>
+            </div>
+            <div class="pt-10 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-8">
+                <span class="mono text-[9px] text-zinc-600 uppercase tracking-[0.5em]">TECL #17940 // &copy; 2026 Parker County Electrical Contractors</span>
+            </div>
+        </div>
+    </footer>
+
+    <!-- SLIDE-OUT MODAL -->
+    <div id="news-modal" class="fixed inset-0 z-[100] hidden">
+        <!-- Backdrop -->
+        <div class="absolute inset-0 bg-black/90 backdrop-blur-2xl" id="modal-overlay"></div>
+        
+        <!-- Sliding Content Pane -->
+        <div class="absolute inset-y-0 right-0 w-full lg:w-[700px] bg-[#050507] border-l border-zinc-800 shadow-2xl transform translate-x-full transition-transform duration-500 ease-out flex flex-col" id="modal-content">
+            
+            <!-- Modal Header -->
+            <div class="p-6 border-b border-zinc-900 flex justify-between items-center bg-black/50 backdrop-blur-md z-10">
+                <span class="text-[10px] font-black text-[#2E5BFF] tracking-[0.4em] uppercase mono">Intelligence Detail</span>
+                <button class="w-10 h-10 rounded-full border border-zinc-700 flex items-center justify-center hover:bg-[#F4FF00] hover:text-black hover:border-transparent transition-all" id="close-modal">
+                    <i class="fas fa-times"></i>
+                </button>
+            </div>
+            
+            <!-- Modal Body (Scrollable) -->
+            <div class="flex-1 overflow-y-auto p-8 md:p-14 custom-scrollbar">
+                
+                <div class="aspect-video rounded-xl overflow-hidden mb-10 border border-zinc-800 shadow-xl relative bg-black flex items-center justify-center">
+                    <img id="modal-image" src="" alt="" class="w-full h-full object-cover">
+                </div>
+                
+                <div class="flex items-center gap-4 mb-6">
+                    <span id="modal-date" class="text-[#F4FF00] font-bold text-[11px] uppercase tracking-widest mono"></span>
+                    <span class="text-zinc-700">|</span>
+                    <span id="modal-category" class="text-zinc-500 font-bold text-[11px] uppercase tracking-widest mono"></span>
+                </div>
+                
+                <h2 id="modal-title" class="text-3xl md:text-5xl font-black heading-bold text-white uppercase mb-8 leading-[1.1]"></h2>
+                
+                <div id="modal-body" class="text-lg text-zinc-300 font-light leading-relaxed space-y-6">
+                    <!-- Article text goes here -->
+                </div>
+            </div>
+            
+            <!-- Modal Footer -->
+            <div class="p-8 border-t border-zinc-900 bg-black/50">
+                <div class="text-center">
+                    <img src="assets/logo.png" class="w-16 h-16 mx-auto object-contain mb-3 opacity-50" />
+                    <p class="text-[10px] mono tracking-[0.3em] text-zinc-600 uppercase mb-2">Parker County Electrical Contractors</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Swiper JS -->
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"></script>
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+
+    <script>
+
+        // Blog / News Logic
+        async function initBlog() {
+            try {
+                // Add cache busting query to ensure we always get the latest json
+                const response = await fetch('blog.json?v=' + new Date().getTime());
+                const news = await response.json();
+                const container = document.getElementById('news-container');
+
+                container.innerHTML = news.map((item, index) => `
+                    <div class="swiper-slide h-auto">
+                        <div class="group relative bg-[#15171B] border border-white/5 rounded-xl overflow-hidden transition-all hover:border-[#2E5BFF] h-full flex flex-col shadow-2xl">
+                            
+                            <div class="aspect-video overflow-hidden bg-black flex items-center justify-center">
+                                <img src="${item.image}" alt="${item.title}" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105 group-hover:opacity-80">
+                            </div>
+                            
+                            <div class="p-8 flex-1 flex flex-col border-t border-white/5">
+                                <div class="flex items-center gap-3 mb-4">
+                                    <span class="text-[10px] mono text-[#F4FF00] tracking-widest uppercase">${item.date}</span>
+                                    <span class="w-1 h-1 rounded-full bg-zinc-600"></span>
+                                    <span class="text-[10px] mono text-zinc-500 tracking-widest uppercase truncate">${item.category}</span>
+                                </div>
+                                
+                                <h4 class="text-2xl heading-bold uppercase mb-4 leading-tight text-white group-hover:text-[#2E5BFF] transition-colors">${item.title}</h4>
+                                <p class="text-sm font-light text-zinc-400 leading-relaxed mb-8 flex-1">${item.summary}</p>
+                                
+                                <button onclick="openModal(${index})" class="inline-flex items-center gap-3 text-[11px] font-black uppercase tracking-[0.2em] text-white hover:text-[#F4FF00] transition-all group-hover:gap-5">
+                                    Access Report <i class="fas fa-arrow-right text-[10px]"></i>
+                                </button>
+                            </div>
+                            
+                            <div class="absolute bottom-0 left-0 w-0 h-1 bg-[#2E5BFF] transition-all duration-500 group-hover:w-full"></div>
+                        </div>
+                    </div>
+                `).join('');
+
+                // Global function for modal
+                window.openModal = function(index) {
+                    const item = news[index];
+                    const modal = document.getElementById('news-modal');
+                    const content = document.getElementById('modal-content');
+                    const body = document.getElementById('modal-body');
+                    
+                    document.getElementById('modal-image').src = item.image;
+                    if(item.image.includes('logo.png')) {
+                        document.getElementById('modal-image').classList.replace('object-cover', 'object-contain');
+                        document.getElementById('modal-image').classList.add('p-8');
+                    } else {
+                        document.getElementById('modal-image').classList.replace('object-contain', 'object-cover');
+                        document.getElementById('modal-image').classList.remove('p-8');
+                    }
+                    
+                    document.getElementById('modal-date').innerText = item.date;
+                    document.getElementById('modal-category').innerText = item.category;
+                    document.getElementById('modal-title').innerText = item.title;
+                    
+                    body.innerHTML = item.content.split('\n\n').map(p => `<p>${p}</p>`).join('');
+
+                    modal.classList.remove('hidden');
+                    document.body.style.overflow = 'hidden'; 
+                    
+                    setTimeout(() => {
+                        content.classList.remove('translate-x-full');
+                    }, 10);
+                }
+
+                const closeModal = () => {
+                    const modal = document.getElementById('news-modal');
+                    const content = document.getElementById('modal-content');
+                    
+                    content.classList.add('translate-x-full');
+                    
+                    setTimeout(() => {
+                        modal.classList.add('hidden');
+                        document.body.style.overflow = ''; 
+                    }, 500);
+                }
+
+                document.getElementById('close-modal').addEventListener('click', closeModal);
+                document.getElementById('modal-overlay').addEventListener('click', closeModal);
+
+                // Initialize Swiper
+                new Swiper('.news-swiper', {
+                    slidesPerView: 1,
+                    spaceBetween: 30,
+                    navigation: {
+                        nextEl: '.news-next',
+                        prevEl: '.news-prev',
+                    },
+                    scrollbar: {
+                        el: '.news-scrollbar',
+                        draggable: true,
+                    },
+                    breakpoints: {
+                        768: { slidesPerView: 2 },
+                        1280: { slidesPerView: 3 }
+                    }
+                });
+
+            } catch (err) {
+                console.error("Error loading blog data:", err);
+            }
+        }
+
+        initBlog();
+    </script>
+</body>
+</html>
