@@ -25,11 +25,19 @@ SOURCES = [
 
 def load_blog():
     if os.path.exists(BLOG_FILE):
-        with open(BLOG_FILE, 'r', encoding='utf-8') as f:
-            try:
+        try:
+            with open(BLOG_FILE, 'r', encoding='utf-8') as f:
                 return json.load(f)
-            except json.JSONDecodeError:
+        except UnicodeDecodeError:
+            print("UnicodeDecodeError encountered. Attempting to load as cp1252...")
+            try:
+                with open(BLOG_FILE, 'r', encoding='cp1252') as f:
+                    return json.load(f)
+            except Exception as e:
+                print(f"Failed to load blog as cp1252: {e}")
                 return []
+        except json.JSONDecodeError:
+            return []
     return []
 
 def save_blog(data):
