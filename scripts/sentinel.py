@@ -1,4 +1,5 @@
 import os
+import sys
 import json
 import time
 import requests
@@ -201,7 +202,7 @@ def run_sentinel():
         save_blog(blog_data)
         print(f"SUCCESS: Added new article '{post_entry['title']}' to blog.json")
     else:
-        print("Failed to rewrite story. Sentinel standing down.")
+        sys.exit("CRITICAL ERROR: Failed to rewrite story. Sentinel sounding the alarm.")
 
 if __name__ == "__main__":
     run_sentinel()
