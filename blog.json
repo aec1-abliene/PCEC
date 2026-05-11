@@ -1,5 +1,15 @@
 [
   {
+    "id": 21,
+    "date": "May 11, 2026",
+    "category": "Industrial Tech",
+    "title": "Operational Resilience Elevated: The Nuclear Power Resurgence and Texas's Industrial Grid",
+    "summary": "The resurgence of nuclear power promises to fundamentally reshape Texas's energy landscape, offering unparalleled operational resilience and stable power essential for commercial and industrial expansion.",
+    "content": "After decades of relative dormancy, nuclear power is emphatically re-entering the global energy dialogue, a shift with profound implications for Texas's commercial and industrial sectors. The drivers are clear and compelling: soaring electricity demand, particularly from hyperscale data centers requiring unwavering 24/7 power, and an escalating imperative to decarbonize industrial heat processes. For Texas, a state with an ever-expanding economy and a unique, independent grid (ERCOT), this resurgence represents a critical opportunity to fortify its energy infrastructure. The need for reliable, firm baseload power has never been more acute, especially as intermittent renewable sources grow, underscoring the strategic value of nuclear energy's consistent output to balance the grid and prevent supply volatility.\n\nFor our commercial and industrial clients across Parker County and beyond, the revival of nuclear power translates directly into enhanced operational resilience and predictability. A more robust, stable, and decarbonized energy supply unlocks new possibilities for industrial growth, advanced manufacturing, and the continued expansion of critical data infrastructure within Texas. This necessitates proactive planning and investment in facility-level electrical infrastructure. Businesses must ensure their systems are not only capable of reliably receiving and distributing this increased and more stable power but also optimized for efficiency and redundancy to fully capitalize on improved grid stability. PCEC stands ready to partner with Texas businesses, providing the expert design, installation, and maintenance services required to upgrade, expand, and future-proof their electrical systems in anticipation of this transformative energy shift.",
+    "original_title": "The Many Shapes of Nuclear Power\u2019s Revival",
+    "image": "images/blog/post_21.jpg"
+  },
+  {
     "id": 20,
     "date": "May 11, 2026",
     "category": "Industrial Tech",
@@ -196,6 +206,6 @@
     "title": "Welcome to the new Abilene Electrical Contractors Blog",
     "summary": "Check back soon for updates, case studies, and insights from the frontier of Texas industrial power.",
     "content": "We are proud to launch our new intelligence stream, dedicated to providing Actionable insights for municipal and corporate electrical resilience.\n\nOur focus remains on industrial deployments, compliance audits, and critical backup systems. As power demands across Texas continue to evolve, staying ahead of code requirements and infrastructure capabilities is paramount.\n\nThis feed will serve as our primary platform for disseminating critical updates, technical deep-dives, and strategic advisory notes.",
-    "image": "https://picsum.photos/seed/aec_1/1280/720"
+    "image": "assets/logo.png"
   }
 ]
