@@ -1,5 +1,15 @@
 [
   {
+    "id": 33,
+    "date": "May 14, 2026",
+    "category": "Industrial Tech",
+    "title": "Navigating Energy Policy Shifts: Ensuring Electrical Resilience for Texas C&I Infrastructure",
+    "summary": "Recent federal policy shifts are impacting renewable energy investments and manufacturing, creating significant implications for the operational resilience of commercial and industrial electrical infrastructure across Texas. PCEC advises proactive strategies to maintain stability.",
+    "content": "The recent Environmental Defense Fund (EDF) report, detailing a Q1 net loss of 5,900 renewable energy manufacturing jobs and $1.4 billion in canceled investments, underscores a critical period of uncertainty within the U.S. energy sector. These cancellations, stemming directly from federal policy shifts around renewable energy, electric vehicles, energy efficiency, and tailpipe emissions, illustrate how macroscopic policy decisions have tangible, ground-level impacts. For the commercial and industrial landscape, particularly here in Texas, such policy volatility can directly influence the pace of grid modernization, the availability of diverse energy sources, and long-term planning for electrical infrastructure development and expansion.\n\nTexas, with its robust industrial base and rapidly expanding commercial sector, operates within a unique and often demanding energy ecosystem. While renewable energy sources have become an integral part of our state's power generation mix, a slowdown in related investment and manufacturing capacity can introduce complexities to grid stability, future power supply predictability, and the cost-effectiveness of integrating sustainable solutions. For Parker County Electrical Contractors (PCEC), this evolving market dynamic reinforces our unwavering commitment to operational resilience. We emphasize proactive, adaptive electrical infrastructure planning for our commercial and industrial clients, including optimizing existing systems, exploring on-site generation options, and implementing advanced energy management solutions. Our focus remains on ensuring that facilities across Texas possess the electrical backbone to operate efficiently and reliably, effectively mitigating risks associated with broader energy policy fluctuations and ensuring uninterrupted productivity and sustained growth.",
+    "original_title": "Q1 saw net loss of 5,900 renewable energy manufacturing jobs: EDF report",
+    "image": "images/blog/post_33.jpg"
+  },
+  {
     "id": 32,
     "date": "May 14, 2026",
     "category": "Industrial Tech",
@@ -197,7 +207,7 @@
     "summary": "The integrity of Texas's electrical grid is increasingly vulnerable to global supply chain disruptions, directly impacting the timely execution of critical utility projects and threatening commercial and industrial operational continuity.",
     "content": "The very backbone of our modern economy\u2014the electrical grid\u2014is facing unprecedented challenges that extend far beyond technical specifications and weather events. The insights from ULE Group President Danielle Pirrone underscore a critical, often overlooked dimension: procurement has become a direct reliability issue. When essential equipment for grid maintenance, upgrades, and new infrastructure projects is missing or significantly delayed, utilities struggle to adhere to schedules and budgets. This isn't merely a financial concern; it directly compromises the robustness and future resilience of the electrical network.\n\nIn Texas, with its unique energy landscape, rapid industrial growth, and past experiences with grid vulnerabilities during extreme weather events, these systemic delays ripple outward, directly impacting the fundamental reliability and availability of power. For our commercial and industrial clients across Texas, this evolving landscape translates into tangible and significant operational risks. Production halts, data integrity compromises, safety concerns, and substantial financial ramifications are direct consequences of an unstable power supply. At Parker County Electrical Contractors, we recognize that proactive resilience is paramount. Our expertise extends beyond immediate fixes to strategic infrastructure development, focusing on designing and implementing robust on-site power solutions, integrating advanced backup generation and energy storage systems, and optimizing power distribution networks. By partnering with PCEC, businesses can mitigate external grid instabilities, ensuring operational continuity and maintaining competitive advantage, even as wider supply chain pressures challenge the foundational grid infrastructure.",
     "original_title": "Why procurement has become a grid reliability issue: ULE",
-    "image": "images/blog/post_13.jpg"
+    "image": "assets/logo.png"
   },
   {
     "id": 12,
