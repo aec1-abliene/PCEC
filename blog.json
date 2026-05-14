@@ -1,5 +1,15 @@
 [
   {
+    "id": 31,
+    "date": "May 14, 2026",
+    "category": "Industrial Tech",
+    "title": "Texas Grid Under Pressure: NEMA Forecasts Massive Electrical Consumption Growth Driven by Data Centers",
+    "summary": "NEMA's latest projections indicate a 55% surge in US electricity consumption by 2050, with data centers alone driving a staggering 300% increase in demand over the next decade. This necessitates immediate and strategic upgrades to Texas's commercial and industrial electrical infrastructure to ensure operational resilience and stability.",
+    "content": "The National Electrical Manufacturers Association (NEMA) has released projections that underscore a monumental shift in U.S. electricity demand, forecasting a 55% increase in annual consumption by 2050. This overarching growth is particularly acute and immediate within the data center sector, which NEMA expects to see its energy consumption skyrocket by an astonishing 300% in just the next ten years. For Texas, a state that serves as a vital hub for critical data infrastructure and a burgeoning industrial landscape, these figures are not merely statistics; they represent an urgent call to action for every commercial and industrial entity reliant on a stable and robust power supply.\n\nAs Chief Electrical Engineer at Parker County Electrical Contractors (PCEC), I recognize that this unprecedented demand growth, particularly from power-intensive data centers, will place immense strain on our existing electrical infrastructure. Commercial and industrial facilities across Texas must proactively address their operational resilience. This means evaluating and upgrading internal electrical systems, ensuring robust backup power solutions, optimizing energy management for efficiency and cost control, and considering distributed energy resources to mitigate reliance on an increasingly burdened grid. PCEC is strategically positioned to assist businesses in navigating these challenges, providing expert guidance and implementation services for infrastructure modernization, advanced power distribution, and comprehensive resilience planning to safeguard against potential disruptions and capitalize on future operational efficiencies.",
+    "original_title": "US annual electricity consumption to grow 55% by 2050: NEMA",
+    "image": "images/blog/post_31.jpg"
+  },
+  {
     "id": 30,
     "date": "May 13, 2026",
     "category": "Industrial Tech",
@@ -197,7 +207,7 @@
     "summary": "As Texas' industrial and data center landscape expands, the reliability of fire water systems is paramount. This briefing underscores the critical role of robust electrical infrastructure in powering these life-saving systems, ensuring uninterrupted operational resilience.",
     "content": "The unprecedented growth of manufacturing and data center campuses across Texas demands an equally robust approach to facility protection. While the hydraulic design of fire water systems rightly receives considerable attention, it is crucial for facility owners and developers to recognize that the operational reliability of these systems is fundamentally contingent upon a meticulously engineered electrical infrastructure. A fire water system, regardless of its hydraulic sophistication, is only as effective as the power supply and control mechanisms that drive its critical components, primarily the fire pumps. This complex interplay between water delivery and electrical integrity is a cornerstone of true operational resilience.\n\nDesigning for this resilience involves far more than simply running a wire. It necessitates dedicated, fault-tolerant power feeders, often with mandated redundant pathways, and seamless integration with emergency power systems (EPS) such as generators and Uninterruptible Power Supplies (UPS) via automatic transfer switches (ATS). Compliance with stringent standards like NFPA 20 for the installation of stationary pumps for fire protection, and NFPA 70 (National Electrical Code) for all associated electrical installations, is non-negotiable. Furthermore, the control systems for fire pumps, ranging from motor starters to advanced variable frequency drives (VFDs), must be designed for immediate and sustained operation under duress, integrating reliably with facility fire alarm and building management systems. At Abilene Electrical Contractors (AECweb), our expertise lies in engineering and implementing the sophisticated electrical backbone that ensures these mission-critical fire protection systems perform flawlessly when it matters most, safeguarding assets, operations, and personnel across Texas' burgeoning industrial and commercial sectors.",
     "original_title": "How to design reliable and appropriate campus fire water systems",
-    "image": "https://picsum.photos/seed/aec_11/1280/720"
+    "image": "assets/logo.png"
   },
   {
     "id": 10,
