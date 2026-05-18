@@ -132,7 +132,14 @@ def rewrite_story(raw_story):
         res = requests.post(url, json=payload, headers={"Content-Type": "application/json"}, timeout=30)
         res.raise_for_status()
         data = res.json()
-        result_text = data['candidates'][0]['content']['parts'][0]['text']
+        
+        # Check for missing content (e.g., safety blocks)
+        candidate = data.get('candidates', [{}])[0]
+        if 'content' not in candidate:
+            print(f"Warning: Gemini blocked content or returned unexpected structure: {data}")
+            return None
+            
+        result_text = candidate['content']['parts'][0]['text']
         result_text = result_text.replace('```json', '').replace('```', '').strip()
         return json.loads(result_text)
     except Exception as e:
@@ -151,10 +158,15 @@ def run_sentinel():
         
     blog_data = load_blog()
     
-    story = stories[0]
-    print(f"Processing story: {story['original_title']}")
-    
-    new_post = rewrite_story(story)
+    # Process stories until we successfully rewrite one to avoid getting stuck on a bad/blocked story
+    new_post = None
+    for story in stories:
+        print(f"Processing story: {story['original_title']}")
+        new_post = rewrite_story(story)
+        if new_post:
+            break
+        print(f"Failed to rewrite '{story['original_title']}', trying the next story...")
+        
     if new_post:
         new_id = 1
         if blog_data:
