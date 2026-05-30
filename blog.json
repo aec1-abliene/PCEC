@@ -1,5 +1,15 @@
 [
   {
+    "id": 78,
+    "date": "May 30, 2026",
+    "category": "Industrial Tech",
+    "title": "Pioneering Grid Resilience: Global Innovations Informing Texas Industrial Stability",
+    "summary": "ContourGlobal's recent commissioning of a utility-scale solar-plus-storage project in Chile, boasting Latin America's longest-duration battery system, marks a significant leap in grid stability. This global benchmark provides critical insights for strengthening operational resilience across Texas's commercial and industrial electrical infrastructure.",
+    "content": "The global energy landscape is rapidly evolving, with utility-scale energy storage emerging as a cornerstone of grid stability and reliability. A recent milestone by ContourGlobal, bringing online a major solar-plus-storage project in Chile featuring Latin America's longest-duration battery energy storage system, underscores this transformative trend. This development is not merely a regional achievement; it represents a critical proof-of-concept for integrating intermittent renewable energy with dispatchable, long-duration storage, offering invaluable lessons for power systems worldwide, including our own in Texas.\n\nFor Texas's robust commercial and industrial sectors, such advancements are directly applicable to enhancing operational resilience. Our state's unique energy grid and susceptibility to extreme weather events demand robust solutions that mitigate downtime and ensure continuous operation. Long-duration battery storage systems, when integrated with renewable generation, provide unparalleled capabilities for peak shaving, grid stabilization during demand surges, and delivering reliable backup power. This directly translates to minimized operational interruptions for manufacturers, data centers, and critical infrastructure, protecting assets, ensuring productivity, and safeguarding personnel. Parker County Electrical Contractors is actively monitoring these global innovations to equip Texas businesses with electrical infrastructure that meets the demands of tomorrow's energy challenges, ensuring optimal performance and unwavering reliability.",
+    "original_title": "CoutourGlobal Brings Major Solar-Plus-Storage Project Online in Chile",
+    "image": "images/blog/post_78.jpg"
+  },
+  {
     "id": 77,
     "date": "May 30, 2026",
     "category": "Industrial Tech",
@@ -197,7 +207,7 @@
     "summary": "Recent FERC findings highlight a monumental 26 GW increase in Texas's generating capacity, a critical development poised to significantly enhance grid stability and operational resilience for commercial and industrial sectors across the state.",
     "content": "As the Chief Electrical Engineer and Content Strategist for Parker County Electrical Contractors (PCEC), I am pleased to share a pivotal development from the Federal Energy Regulatory Commission (FERC) that signals a new era for electrical infrastructure in Texas. FERC reports indicate a substantial 75 GW increase in US summer generating capacity identified for the coming years, with a remarkable 26 GW specifically slated for Texas. This significant expansion underscores a concentrated effort to bolster the state's power grid, a move that directly impacts the stability and future growth potential of our commercial and industrial clients across the Lone Star State. This immense addition of capacity is not merely an incremental upgrade; it represents a strategic fortification against the increasing demands of a rapidly growing economy and the challenges posed by extreme weather events, ensuring a more reliable and robust energy supply for critical operations.\n\nFor Texas's commercial and industrial enterprises, this projected 26 GW capacity increase translates directly into enhanced operational resilience. A more robust grid mitigates the risks of power interruptions, safeguards against voltage fluctuations, and provides the consistent, high-quality power essential for maintaining production schedules, protecting sensitive equipment, and supporting advanced manufacturing processes. At PCEC, we understand that uninterrupted power is the bedrock of productivity and profitability. We are positioned to help your business not only integrate seamlessly with this improving infrastructure but also optimize your on-site electrical systems to capitalize on this heightened reliability, ensuring your facilities are equipped for sustained performance and future expansion. This investment in our state's electrical backbone reinforces our commitment to supporting the unwavering operational continuity and growth of Texas businesses.",
     "original_title": "US summer generating capacity increases by 75 GW since 2025: FERC",
-    "image": "images/blog/post_58.jpg"
+    "image": "assets/logo.png"
   },
   {
     "id": 57,
