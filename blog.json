@@ -1,5 +1,15 @@
 [
   {
+    "id": 109,
+    "date": "Jun 10, 2026",
+    "category": "Industrial Tech",
+    "title": "Operational Resilience Amidst Evolving Energy Standards: Impact on Texas Electrical Infrastructure",
+    "summary": "A recent Supreme Court decision regarding federal energy efficiency standards introduces regulatory uncertainty for commercial and industrial sectors. For Texas businesses, this underscores the critical need for adaptable electrical infrastructure planning and robust operational resilience strategies.",
+    "content": "The recent decision by the Supreme Court to send the case concerning Biden-era energy efficiency rules for furnaces and water heaters back to the appeals court marks a significant moment for commercial and industrial stakeholders across Texas. While not a definitive rejection of the proposed standards, the ruling highlights an incomplete legal review, thereby placing the future of these efficiency mandates in a state of considerable uncertainty. For businesses making long-term capital expenditure decisions on heating, ventilation, and air conditioning (HVAC) and process heating systems, this ambiguity can directly impact equipment procurement, energy management strategies, and the overall operational footprint. The proposed rules aimed to phase out less efficient non-condensing natural gas units, pushing towards higher efficiency or electrification, and the current judicial pause directly affects the timeline and certainty of these transitions within our critical infrastructure.\n\nFrom an electrical engineering perspective, this regulatory flux emphasizes the paramount importance of designing and implementing resilient and adaptable electrical infrastructure. At Parker County Electrical Contractors (PCEC), we understand that operational resilience is not merely about surviving disruptions, but about thriving through evolving conditions. While the specific impact of furnace efficiency rules primarily targets natural gas consumption, the broader implications for energy policy and the pace of electrification directly influence load demands, distribution requirements, and the necessity for robust power management systems. Texas industries must continue to invest in forward-thinking electrical solutions that can accommodate potential shifts towards increased electrification, integrate advanced energy management technologies, and maintain optimal performance regardless of short-term policy variations. PCEC stands ready to partner with commercial and industrial clients, providing expert guidance and robust electrical system design and installation to ensure your operations remain efficient, compliant, and fundamentally resilient against a backdrop of dynamic regulatory environments.",
+    "original_title": "Supreme Court sends furnace case back to appeals court",
+    "image": "assets/logo.png"
+  },
+  {
     "id": 108,
     "date": "Jun 09, 2026",
     "category": "Industrial Tech",
