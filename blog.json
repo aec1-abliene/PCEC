@@ -1,5 +1,15 @@
 [
   {
+    "id": 112,
+    "date": "Jun 11, 2026",
+    "category": "Industrial Tech",
+    "title": "Grid Reliability in an Era of Renewables: Implications for Texas Commercial and Industrial Operations",
+    "summary": "New York's record solar generation juxtaposed with narrowing grid reliability margins offers a critical warning for Texas, underscoring the urgent need for robust commercial and industrial electrical resilience amidst our own rapid energy transition.",
+    "content": "The recent report from the New York Independent System Operator, highlighting the state's achievement of a 5.6 GW hourly solar generation record alongside an alarming assessment of \"narrowest reliability margins in recent years,\" serves as a pertinent bellwether for energy-intensive states like Texas. While celebrating advancements in renewable energy integration, this juxtaposition underscores a critical challenge facing modern power grids: the intricate balance between sustainable generation and unwavering operational resilience. Here in Texas, under the independent purview of ERCOT, we are witnessing similar accelerated growth in utility-scale solar and wind power. This rapid transformation, while beneficial for diversification, introduces significant complexities to grid management, demanding heightened vigilance from commercial and industrial stakeholders regarding the stability of their foundational electrical infrastructure.\n\nFor commercial and industrial operations across Parker County and wider Texas, \"narrow reliability margins\" translate directly into elevated risks. This isn't merely about the potential for complete outages; it encompasses a spectrum of power quality issues, including voltage sags, surges, frequency deviations, and harmonic distortions, all of which can severely impact sensitive machinery, data integrity, and overall production efficiency. Ensuring continuous, high-quality power is no longer solely the grid operator's responsibility; it necessitates a proactive, layered approach to on-site electrical resilience. At Parker County Electrical Contractors, we emphasize the critical importance of advanced power management systems, robust surge protection, comprehensive backup power solutions\u2014from industrial generators to uninterruptible power supplies (UPS)\u2014and meticulous electrical infrastructure audits and modernizations. Investing in these measures is not just a contingency plan; it is a strategic imperative for safeguarding assets, maintaining operational continuity, and securing competitive advantage in an increasingly dynamic and demanding energy landscape.",
+    "original_title": "New York hits 5.6 GW hourly solar generation record",
+    "image": "assets/logo.png"
+  },
+  {
     "id": 111,
     "date": "Jun 10, 2026",
     "category": "Industrial Tech",
