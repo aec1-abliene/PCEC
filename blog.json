@@ -1,5 +1,15 @@
 [
   {
+    "id": 114,
+    "date": "Jun 11, 2026",
+    "category": "Industrial Tech",
+    "title": "Texas' Grid Transformation: Harnessing Distributed Energy for C&I Resilience",
+    "summary": "PG&E's landmark milestone of over a million connected solar customers signals a national shift towards an interactive grid. For Texas commercial and industrial operations, this represents a critical opportunity to enhance operational resilience and efficiency through strategic distributed energy integration.",
+    "content": "The recent announcement by Pacific Gas & Electric regarding over one million connected solar customers serves as a potent indicator of a nationwide paradigm shift within the energy sector. This milestone underscores an industry-wide transition from traditional, unidirectional power distribution to a dynamic, interactive system where customer energy resources are not merely consumers but active participants in grid stability and supply. For commercial and industrial (C&I) entities across Texas, this evolution is not a distant concept but an immediate imperative, demanding a forward-thinking approach to electrical infrastructure planning and investment.\n\nThe implications for Texas' robust C&I landscape are profound. As the grid becomes more interactive, facilities are empowered to integrate Distributed Energy Resources (DERs) such as solar photovoltaic systems, battery energy storage, and even advanced microgrids directly into their operational frameworks. This capability offers unprecedented avenues for enhancing operational resilience, providing critical backup power during grid disruptions, optimizing energy costs through peak shaving and demand response, and bolstering sustainability profiles. However, realizing these benefits necessitates expert navigation of complex interconnection standards, sophisticated control system integration, and robust cybersecurity protocols to protect critical infrastructure. Parker County Electrical Contractors (PCEC) stands at the forefront of this transformation, providing unparalleled expertise in the design, installation, and maintenance of advanced electrical systems that seamlessly integrate DERs, ensuring our C&I clients in Texas achieve maximum operational uptime, energy independence, and long-term economic viability amidst an increasingly complex energy landscape.",
+    "original_title": "1M+ customers have connected solar to PG&E\u2019s grid",
+    "image": "assets/logo.png"
+  },
+  {
     "id": 113,
     "date": "Jun 11, 2026",
     "category": "Industrial Tech",
