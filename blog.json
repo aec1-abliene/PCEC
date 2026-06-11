@@ -1,5 +1,15 @@
 [
   {
+    "id": 113,
+    "date": "Jun 11, 2026",
+    "category": "Industrial Tech",
+    "title": "Fortifying Texas Electrical Infrastructure: Addressing AI's Cyber Sprawl and Ensuring Operational Resilience",
+    "summary": "As AI increasingly integrates into commercial and industrial electrical systems, a critical lack of oversight over AI user accounts creates significant cybersecurity vulnerabilities. This unchecked sprawl poses a direct threat to the operational resilience of Texas's vital infrastructure, demanding immediate and expert intervention.",
+    "content": "The rapid integration of Artificial Intelligence (AI) across commercial and industrial sectors, particularly within critical electrical infrastructure, promises unparalleled efficiencies and predictive capabilities. However, a concerning industry revelation indicates that three-quarters of organizations are failing to fully oversee the activities of user accounts belonging to their AI agents and tools. This critical oversight gap creates significant, unmonitored entry points for sophisticated cyber threats, directly compromising the very systems designed to enhance operational performance and stability.\n\nFor Texas, with its vast energy landscape and robust industrial base, the implications are profound. AI-driven smart grids, industrial control systems (ICS), and building management systems (BMS) are increasingly reliant on these autonomous agents. A lack of comprehensive oversight means that a compromised AI agent could, with its often-privileged access, disrupt energy distribution, manipulate critical operational parameters, or even initiate cascading failures across interconnected electrical networks. At Parker County Electrical Contractors (PCEC), we understand that safeguarding these complex, AI-integrated electrical ecosystems demands a specialized approach that melds cutting-edge cybersecurity with deep electrical engineering expertise. Our focus is on ensuring operational resilience by implementing robust security protocols, conducting thorough system audits, and designing hardened electrical architectures that protect against these evolving threats, thereby securing Texas's critical infrastructure against the unseen vulnerabilities of AI's rapid sprawl.",
+    "original_title": "Companies are failing to keep up with AI\u2019s sprawl, creating entry points for hackers",
+    "image": "assets/logo.png"
+  },
+  {
     "id": 112,
     "date": "Jun 11, 2026",
     "category": "Industrial Tech",
