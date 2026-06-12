@@ -1,5 +1,15 @@
 [
   {
+    "id": 117,
+    "date": "Jun 12, 2026",
+    "category": "Industrial Tech",
+    "title": "Meta's Solar Strategy and Its Critical Implications for Texas Commercial & Industrial Power Stability",
+    "summary": "Major power purchase agreements for utility-scale solar are reshaping the energy landscape, demanding greater operational resilience and sophisticated electrical infrastructure solutions for Texas commercial and industrial enterprises.",
+    "content": "As Chief Electrical Engineer at Parker County Electrical Contractors (PCEC), we closely monitor macro-level energy trends that inevitably impact the operational backbone of commercial and industrial facilities across Texas. The recent announcement detailing Meta's expanded US solar portfolio and new Power Purchase Agreement (PPA) with Zelestra exemplifies a significant industry shift. This isn't just about corporate sustainability pledges; it represents a substantial investment in utility-scale renewable generation, which fundamentally alters the energy supply mix. For a state like Texas, with its unique ERCOT grid and burgeoning industrial growth, the increasing proliferation of such large-scale solar projects presents both profound opportunities for energy diversification and critical considerations for grid stability and reliability.\n\nThe implications for Texas commercial and industrial (C&I) electrical infrastructure are far-reaching. While these vast solar farms contribute to a cleaner energy profile and can offer long-term energy cost predictability, they also introduce complexities related to intermittency and grid integration. Ensuring operational resilience for C&I clients in this evolving landscape demands sophisticated electrical engineering solutions. This includes robust power distribution systems, advanced switchgear, intelligent backup power solutions, and strategic demand-side management capabilities that can seamlessly adapt to dynamic grid conditions. PCEC specializes in designing and implementing the robust, future-proof electrical systems that enable Texas industries to not only integrate with a renewables-heavy grid but to thrive with unwavering power reliability, even as the broader energy infrastructure continues its transformative journey towards greater sustainability.",
+    "original_title": "Meta expands US solar portfolio, inks PPA with Zelestra",
+    "image": "assets/logo.png"
+  },
+  {
     "id": 116,
     "date": "Jun 12, 2026",
     "category": "Industrial Tech",
