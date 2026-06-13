@@ -1,5 +1,15 @@
 [
   {
+    "id": 119,
+    "date": "Jun 13, 2026",
+    "category": "Industrial Tech",
+    "title": "Navigating Grid Resilience: Regulatory Precedents and Their Impact on Texas Industrial Power",
+    "summary": "A recent FERC complaint regarding RTO adders highlights critical regulatory dynamics shaping grid resilience. For Texas commercial and industrial entities, this underscores the imperative for proactive operational stability amidst evolving energy landscapes.",
+    "content": "A recent development before the Federal Energy Regulatory Commission (FERC) has brought into sharp focus the complex interplay of state mandates, utility economics, and grid resilience. Connecticut's Attorney General and state agencies are challenging the eligibility of utilities like Eversource and Avangrid for a 0.5% 'RTO adder' on their return on equity. This adder typically serves as an incentive for utilities to voluntarily participate in Regional Transmission Organizations (RTOs) such as ISO New England, thereby enhancing regional grid reliability, market efficiency, and operational coordination. The core of the complaint posits that a new state law mandating participation renders the incentive obsolete, questioning the continued financial benefit when participation is no longer discretionary but obligatory. This ruling, while specific to the Northeast, sets a significant precedent regarding how regulatory frameworks acknowledge and incentivize critical contributions to grid stability.\n\nFor commercial and industrial operations here in Texas, this development, while not directly impacting our unique ERCOT grid, holds important implications. ERCOT, our independent system operator, manages the flow of electric power to 90% of Texans and operates in many respects like an RTO, albeit largely isolated from the national interconnections. The principle behind the RTO adder\u2014rewarding and incentivizing contributions to a robust, reliable grid\u2014is fundamentally relevant to the operational resilience of any utility network. As regulatory environments continue to evolve and external pressures on grid infrastructure intensify, the financial mechanisms supporting grid stability become paramount. For Parker County Electrical Contractors, this reinforces our commitment to equipping Texas businesses with the robust electrical infrastructure needed to withstand grid volatilities. We empower our commercial and industrial clients to enhance their operational resilience through advanced power distribution, backup generation, and comprehensive energy management solutions, ensuring continuity and reliability regardless of the broader regulatory incentives at play.",
+    "original_title": "Connecticut AG, agencies ask FERC to cut Eversource, Avangrid RTO adder",
+    "image": "assets/logo.png"
+  },
+  {
     "id": 118,
     "date": "Jun 13, 2026",
     "category": "Industrial Tech",
