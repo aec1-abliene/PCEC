@@ -1,5 +1,15 @@
 [
   {
+    "id": 128,
+    "date": "Jun 16, 2026",
+    "category": "Industrial Tech",
+    "title": "Operational Resilience: The Evolving Role of Dispatchable Generation in Texas's Industrial Energy Landscape",
+    "summary": "Federal initiatives are revitalizing advanced thermal generation with carbon capture, signaling a national shift towards strengthening grid resilience. For Texas's rapidly expanding commercial and industrial sectors, this underscores the critical importance of diverse, dispatchable power sources to ensure uninterrupted operations and future growth.",
+    "content": "The energy landscape is continually evolving, driven by the imperatives of reliability, sustainability, and economic growth. A recent Department of Energy (DOE) initiative, highlighted by the $18.5 million allocation to TerraSpark Energy Campus in West Virginia, signals a strategic pivot in national energy policy: the revitalization of advanced thermal generation, specifically modern coal power. This 1.6-gigawatt greenfield project, slated for a 2030 startup, isn't a return to past methods. It integrates cutting-edge supercritical boiler technology with molten borate carbon capture, achieving 95-98% capture efficiency. This development underscores a growing recognition that dispatchable, baseload power, enhanced with environmental safeguards, remains a crucial pillar for ensuring grid stability and operational resilience across the nation.\n\nFor Texas, a state with its own distinct energy ecosystem and an unparalleled pace of industrial and commercial expansion, this national trend carries significant implications. The ERCOT grid, while robust, has faced unique challenges demanding a diverse and reliable energy portfolio capable of withstanding extreme weather events and surging demand. Industries from manufacturing to data centers to the vast energy sector itself depend on an uninterrupted power supply to maintain productivity and safeguard critical operations. PCEC, as Chief Electrical Engineers and Content Strategists, recognizes that the conversation around energy diversity and grid hardening is paramount. Our focus remains on empowering Texas businesses with state-of-the-art electrical infrastructure, from robust switchgear and control systems to comprehensive power distribution networks, ensuring that regardless of the generation mix, your operations benefit from maximum reliability and resilience. This evolving national strategy reinforces our commitment to future-proofing your facilities against any operational disruption.",
+    "original_title": "A New Coal Plant in the U.S.? Once Unthinkable, Now a Strong Maybe",
+    "image": "images/blog/post_128.jpg"
+  },
+  {
     "id": 127,
     "date": "Jun 16, 2026",
     "category": "Industrial Tech",
