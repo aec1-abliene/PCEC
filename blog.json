@@ -1,5 +1,15 @@
 [
   {
+    "id": 132,
+    "date": "Jun 17, 2026",
+    "category": "Industrial Tech",
+    "title": "PCEC Briefing: Bidirectional EV Charging - A New Paradigm for Texas Commercial and Industrial Power Resilience",
+    "summary": "Recent advancements in bidirectional EV charging signal a transformative shift, enabling commercial and industrial entities in Texas to leverage their electric vehicle fleets as dynamic assets for enhanced operational resilience and energy management.",
+    "content": "The recent announcements from automotive leaders like General Motors and Rivian regarding managed, bidirectional electric vehicle (EV) charging capabilities mark a significant inflection point in energy management and operational resilience. These developments underscore a fundamental shift: EVs are no longer merely energy consumers but are evolving into powerful, mobile distributed energy resources. For commercial and industrial (C&I) operations across Texas, this presents a transformative opportunity to enhance energy independence and grid stability. Bidirectional charging, often referred to as Vehicle-to-Grid (V2G) or Vehicle-to-Building (V2B), allows EV fleets to not only draw power from the grid but also intelligently discharge stored energy back into facilities or the grid itself. This capability is poised to redefine how C&I entities manage their electrical loads, especially within the dynamic and sometimes volatile context of the Texas power grid.\n\nThis technological advancement carries profound implications for C&I electrical infrastructure in Texas. Beyond the immediate benefits of reduced energy costs through peak shaving and demand response programs, bidirectional EV charging offers a robust layer of operational resilience. Imagine a scenario where a facility's fleet of electric delivery vans or forklifts can serve as an on-demand power source during grid disturbances or scheduled outages, mitigating downtime and protecting critical operations. Implementing such systems requires sophisticated electrical engineering and infrastructure modernization, including intelligent energy management systems, upgraded switchgear, robust interconnection points, and adherence to evolving utility standards. Parker County Electrical Contractors (PCEC) stands at the forefront of this revolution, equipped with the expertise to design, install, and maintain these complex, grid-interactive EV charging solutions. Our commitment is to ensure that Texas C&I businesses can safely and efficiently harness the full potential of their EV fleets, transforming them from liabilities into cornerstone assets for enduring operational strength and energy security.",
+    "original_title": "Managed, bidirectional EV charging advances with utility, automaker support",
+    "image": "images/blog/post_132.jpg"
+  },
+  {
     "id": 131,
     "date": "Jun 17, 2026",
     "category": "Industrial Tech",
