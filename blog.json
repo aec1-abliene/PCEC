@@ -1,5 +1,15 @@
 [
   {
+    "id": 130,
+    "date": "Jun 17, 2026",
+    "category": "Industrial Tech",
+    "title": "Operational Resilience in Texas: Why Microgrids Are Essential for Commercial & Industrial Infrastructure",
+    "summary": "As Texas faces increasing grid vulnerabilities, traditional solutions like undergrounding fall short for commercial and industrial demands. We explore why microgrids represent the paramount strategy for ensuring robust, uninterrupted operational resilience in our dynamic energy landscape.",
+    "content": "The increasing frequency and intensity of environmental challenges, from wildfires to extreme weather events, have placed unprecedented strain on our foundational electrical grids. While discussions around burying power lines gain traction as a protective measure, this approach, while beneficial for localized asset protection, addresses only a fraction of the larger operational resilience challenge for commercial and industrial entities. For businesses across Parker County and throughout Texas, the imperative extends far beyond simply protecting physical transmission lines; it's about guaranteeing continuous, reliable power for critical operations.\n\nAt Parker County Electrical Contractors (PCEC), we recognize that true operational resilience for Texas\u2019s commercial and industrial sectors necessitates a more sophisticated, holistic solution: the microgrid. A microgrid offers the unparalleled ability to disconnect from the main grid and operate autonomously, providing a secure, local power supply that insulates businesses from regional outages, grid instability, and demand fluctuations. This capability is not merely a convenience; it's a strategic imperative for manufacturing plants, data centers, healthcare facilities, and other critical infrastructure where downtime is measured in substantial financial losses and compromised safety. Integrating renewable sources like solar with advanced battery storage and smart energy management systems, microgrids empower businesses with enhanced energy independence, optimized cost control, and a significantly reduced carbon footprint. PCEC stands ready to engineer and implement these custom, resilient power solutions, ensuring Texas industries remain robust and operational, irrespective of external grid pressures.",
+    "original_title": "In wildfire country, every home should be a microgrid",
+    "image": "images/blog/post_130.jpg"
+  },
+  {
     "id": 129,
     "date": "Jun 16, 2026",
     "category": "Industrial Tech",
