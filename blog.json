@@ -1,5 +1,15 @@
 [
   {
+    "id": 138,
+    "date": "Jun 19, 2026",
+    "category": "Industrial Tech",
+    "title": "Advanced Modular Reactors: Fortifying Texas's Commercial and Industrial Power Resilience",
+    "summary": "The successful criticality of Valar Atomics' Ward 250 reactor under a DOE pilot program marks a pivotal advancement in nuclear energy, offering a new paradigm for enhancing grid stability and operational resilience across Texas's vital commercial and industrial sectors. This Gen IV technology promises a future of robust, reliable power for our growing economy.",
+    "content": "In a significant stride for national energy infrastructure, Valar Atomics has achieved self-sustaining criticality and completed zero-power testing at its Ward 250 reactor. This Gen IV tri-structural isotropic (TRISO)-fueled modular high-temperature gas reactor (HTGR) represents a monumental leap forward, becoming the second advanced reactor to go critical under the Department of Energy\u2019s (DOE\u2019s) Reactor Pilot Program. This achievement underscores a deliberate and strategic national effort to diversify our energy portfolio with inherently safer, highly efficient, and more resilient power generation technologies. The modular nature of these HTGRs, coupled with the enhanced safety characteristics of TRISO fuel, positions them as transformative assets capable of providing unparalleled baseload stability and high-temperature process heat, critical for a modern industrial economy.\n\nFor Texas, a state with an expansive and energy-intensive commercial and industrial landscape, the implications of advanced modular reactors are profound. Our operational resilience, particularly concerning electrical infrastructure, has been a strategic imperative. These next-generation reactors offer a non-intermittent, carbon-free power source that can significantly enhance grid stability and reduce vulnerabilities. PCEC recognizes the potential for these modular units to support localized microgrids, providing critical power to industrial complexes, data centers, and essential services, thereby minimizing downtime and bolstering overall economic security. The ability of HTGRs to supply not only electricity but also high-temperature process heat could revolutionize heavy industries across Texas, from petrochemicals to manufacturing, offering cleaner and more efficient pathways for their operations. As Chief Electrical Engineer for Parker County Electrical Contractors, we are keenly observing these developments, preparing our expertise and services to integrate these advanced power solutions into Texas's commercial and industrial fabric, ensuring our clients remain at the forefront of energy independence and operational excellence.",
+    "original_title": "Valar Atomic\u2019s Ward 250 Becomes Second Reactor to Go Critical Under DOE Pilot Program",
+    "image": "images/blog/post_138.jpg"
+  },
+  {
     "id": 137,
     "date": "Jun 19, 2026",
     "category": "Industrial Tech",
