@@ -1,5 +1,15 @@
 [
   {
+    "id": 141,
+    "date": "Jun 20, 2026",
+    "category": "Industrial Tech",
+    "title": "Fortifying the Texas Grid: The Critical Role of PFE-Compliant Solar in Commercial & Industrial Resilience",
+    "summary": "Soltec's PFE certification for solar trackers marks a significant advancement in grid stability. This development is crucial for enhancing the operational resilience of Texas's commercial and industrial electrical infrastructure.",
+    "content": "In an era where grid stability and operational resilience are paramount, the recent announcement from Soltec, confirming PFE-compliant certification for its U.S. SFOne and SF7 series 1P and 2P trackers, signifies a critical advancement. For 'Parker County Electrical Contractors' (PCEC), this development underscores a pivotal shift in the performance expectations for utility-scale solar assets. PFE, or 'Performance Following Event' compliance, mandates that generating facilities maintain continuous operation and support grid stability even during significant electrical disturbances such as voltage sags, frequency deviations, or short circuits. This proactive 'ride-through' capability is essential; instead of disconnecting and exacerbating grid instability during an event, PFE-compliant equipment continues to inject power or rapidly restore service, thereby preventing cascading failures and fortifying the overall grid infrastructure under the burgeoning demands of new regulatory frameworks.\n\nThe implications of such certifications are particularly profound for the Texas electrical landscape. With ERCOT managing a standalone grid and experiencing rapid integration of utility-scale solar projects, ensuring every component contributes to enduring stability is non-negotiable. For commercial and industrial facilities across Texas, this translates directly to enhanced power quality and reduced vulnerability to grid disturbances. A more resilient utility-scale generation fleet means fewer disruptions, more consistent power delivery, and greater protection for sensitive operational equipment. PCEC remains at the forefront of this evolving energy paradigm, leveraging our deep expertise to design, implement, and maintain electrical infrastructure that not only meets but anticipates these rigorous standards. We empower our industrial and commercial clients to thrive within a robust and reliable electrical ecosystem, ensuring their operations benefit directly from advancements in grid resilience and energy technology.",
+    "original_title": "Soltec Touts PFE-Compliant Certification for Solar Trackers",
+    "image": "images/blog/post_141.jpg"
+  },
+  {
     "id": 140,
     "date": "Jun 20, 2026",
     "category": "Industrial Tech",
