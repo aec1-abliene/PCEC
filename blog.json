@@ -1,5 +1,15 @@
 [
   {
+    "id": 142,
+    "date": "Jun 21, 2026",
+    "category": "Industrial Tech",
+    "title": "The Electrical Nexus of Fire Protection: Why Hydrant Flow Data Shapes Industrial Resilience in Texas",
+    "summary": "Understanding municipal fire hydrant flow data is not just for fire departments; it profoundly impacts the electrical design and operational resilience of commercial and industrial facilities, dictating critical infrastructure requirements.",
+    "content": "While often perceived as a concern primarily for municipal water authorities and fire departments, the data derived from fire hydrant flow testing carries profound implications for the design, safety, and operational resilience of commercial and industrial electrical infrastructure, particularly in Texas.\n\nThe availability and pressure of water, as revealed by these tests, directly influence the specification and implementation of fire protection systems within any large facility. These systems \u2013 including fire pumps, sprinkler systems, and standpipes \u2013 are inherently dependent on a robust electrical backbone. At Parker County Electrical Contractors (PCEC), we understand that an inadequate municipal water supply, as identified by hydrant testing, might necessitate larger or more powerful electrically-driven fire pumps, specialized electrical control panels, and a meticulously designed emergency power system to ensure these critical life-safety and asset-protection systems function without interruption. Our expertise ensures that the electrical systems powering your fire protection infrastructure are not only code-compliant with NFPA 70 (NEC) and other relevant standards but are also strategically designed to complement the local water supply conditions, safeguarding your operations against potential fire hazards and maintaining continuous operational capacity.",
+    "original_title": "How to conduct fire hydrant flow testing",
+    "image": "images/blog/post_142.jpg"
+  },
+  {
     "id": 141,
     "date": "Jun 20, 2026",
     "category": "Industrial Tech",
