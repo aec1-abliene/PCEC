@@ -1,5 +1,15 @@
 [
   {
+    "id": 144,
+    "date": "Jun 21, 2026",
+    "category": "Industrial Tech",
+    "title": "Operational Resilience: Safeguarding Texas's Industrial & Commercial EV Charging Infrastructure",
+    "summary": "As Texas rapidly electrifies, the design and implementation of commercial and industrial EV charging stations present significant electrical engineering challenges, demanding robust solutions for safety and operational resilience.",
+    "content": "The proliferation of electric vehicles (EVs) across Texas is more than a shift in transportation; it is a fundamental transformation of our electrical infrastructure, particularly within the commercial and industrial sectors. While the promise of sustainable mobility is compelling, the underlying electrical complexities associated with deploying EV charging stations are substantial and demand rigorous engineering. As highlighted by industry analyses, the design of these systems is fraught with inherent risks, necessitating an unwavering commitment to safety, efficiency, and long-term operational resilience.\n\nAt Parker County Electrical Contractors (PCEC), we understand that integrating EV charging infrastructure into existing or new commercial and industrial facilities in Texas goes far beyond simply installing chargers. It involves meticulous load calculations, strategic power distribution upgrades, sophisticated thermal management, and comprehensive adherence to evolving electrical codes such as the National Electrical Code (NEC) and stringent local Texas regulations. The critical risks include, but are not limited to, potential grid strain and peak demand management, ensuring robust grounding and fault protection, mitigating arc flash hazards, and designing for continuous heavy-duty operation. For Texas businesses, ensuring uninterrupted operations and protecting significant capital investments means partnering with an electrical contractor that possesses the deep expertise in large-scale power systems, utility coordination, and proactive risk mitigation. PCEC stands ready to deliver those precise, resilient solutions, ensuring your EV charging infrastructure is not just functional, but an enduring asset to your operations.",
+    "original_title": "Know the risks involved in designing EV charging stations",
+    "image": "images/blog/post_144.jpg"
+  },
+  {
     "id": 143,
     "date": "Jun 21, 2026",
     "category": "Industrial Tech",
