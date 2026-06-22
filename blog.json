@@ -1,5 +1,15 @@
 [
   {
+    "id": 146,
+    "date": "Jun 22, 2026",
+    "category": "Industrial Tech",
+    "title": "Beyond Prevention: The New Era of Operational Resilience for Texas Industrial & Commercial Electrical Infrastructure",
+    "summary": "As CISA shifts its strategy from mere prevention to operational resilience, Texas commercial and industrial enterprises must now proactively invest in hardening their electrical infrastructure against inevitable disruptions, ensuring rapid recovery and continuity.",
+    "content": "The U.S. government, through agencies like CISA, has critically re-evaluated its approach to safeguarding national critical infrastructure. The recent declaration by the acting CISA chief, acknowledging the inevitability of major disruptions, marks a pivotal shift in strategy: from a singular focus on prevention to a comprehensive embrace of operational resilience. This reorientation recognizes that while preventative measures are crucial, no system is entirely impervious to the escalating threats posed by sophisticated cyberattacks, severe weather events, or physical sabotage. For Parker County Electrical Contractors, this paradigm shift underscores the urgent need for commercial and industrial entities across Texas to move beyond basic protective measures and strategically build systems designed to absorb, adapt to, and rapidly recover from any operational setback, minimizing downtime and economic impact.\n\nFor Texas, with its robust industrial base and dynamic energy landscape, the implications are profound. Our interconnected electrical infrastructure, while powerful, is increasingly vulnerable to both advanced persistent threats targeting operational technology (OT) systems like SCADA and PLCs, and the escalating frequency of extreme weather events. Achieving true operational resilience in this environment demands a multi-faceted approach. This includes the strategic deployment of redundant power systems, advanced surge protection, robust backup generation (including microgrids), and sophisticated monitoring systems that can detect anomalies and facilitate swift isolation and restoration. Furthermore, it necessitates a renewed focus on hardening physical electrical assets \u2013 from switchgear to substations \u2013 against both cyber-physical attacks and environmental stressors. PCEC is at the forefront of implementing these essential upgrades, ensuring that Texas businesses can not only withstand inevitable disruptions but also maintain critical operations with minimal interruption, safeguarding productivity and profitability.",
+    "original_title": "Major critical infrastructure disruptions are inevitable, acting CISA chief says",
+    "image": "images/blog/post_146.jpg"
+  },
+  {
     "id": 145,
     "date": "Jun 22, 2026",
     "category": "Industrial Tech",
