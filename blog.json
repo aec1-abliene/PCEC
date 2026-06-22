@@ -1,5 +1,15 @@
 [
   {
+    "id": 145,
+    "date": "Jun 22, 2026",
+    "category": "Industrial Tech",
+    "title": "Optimizing Operational Resilience: The Imperative of EV Load Visibility for Texas Commercial and Industrial Infrastructure",
+    "summary": "The rapid integration of electric vehicles introduces dynamic, often invisible electrical loads to our grid. For Texas commercial and industrial operations, gaining critical visibility into these loads is foundational for maintaining resilience and efficiency.",
+    "content": "The rapid expansion of electric vehicles (EVs) is fundamentally reshaping the demands placed upon our electrical grid, and nowhere is this more pronounced than in the robust commercial and industrial (C&I) sectors across Texas. While EVs represent a significant step towards sustainable transportation, their integration brings an unprecedented challenge: managing dynamic, often 'invisible' loads that can strain existing infrastructure and impact operational continuity. Without real-time data and granular visibility into these charging patterns\u2014whether from fleet vehicles, employee charging stations, or integrated operational equipment\u2014C&I facilities face heightened risks of unexpected peak demand charges, potential grid instability, and even localized brownouts or outages. In Texas, with our unique energy landscape and susceptibility to extreme weather events, understanding and mitigating these unseen pressures is paramount for maintaining uninterrupted business operations.\n\nAt Parker County Electrical Contractors (PCEC), we recognize that this challenge is also an immense opportunity for proactive resilience. The solution lies in advanced electrical infrastructure modernization focused on comprehensive load visibility and intelligent management. By implementing sophisticated energy management systems (EMS), smart charging solutions, advanced metering infrastructure (AMI), and demand-response capabilities, C&I clients can transform invisible loads into manageable, flexible assets. This proactive approach enables precise forecasting, optimization of charging schedules to off-peak hours, integration with renewable energy sources, and dynamic load shedding strategies. The result is not just reduced operational costs through lower demand charges, but crucially, enhanced grid stability, guaranteed uptime, and a robust electrical backbone capable of supporting future growth. PCEC empowers Texas businesses to not just adapt to the EV era, but to thrive within it, securing their operational future with intelligent, resilient electrical infrastructure.",
+    "original_title": "EVs are already on your grid. Visibility is the missing piece.",
+    "image": "images/blog/post_145.jpg"
+  },
+  {
     "id": 144,
     "date": "Jun 21, 2026",
     "category": "Industrial Tech",
