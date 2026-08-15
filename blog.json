@@ -1,5 +1,15 @@
 [
   {
+    "id": 290,
+    "date": "Aug 15, 2026",
+    "category": "Industrial Tech",
+    "title": "Texas Facilities: Securing Air Quality and Operational Resilience Through Advanced Electrical Design for VAV Systems",
+    "summary": "Optimizing indoor air quality and energy efficiency in commercial and industrial facilities demands advanced HVAC solutions like Variable Air Volume (VAV) systems. This briefing examines the critical electrical infrastructure required to support these complex systems, underscoring their vital role in operational resilience for Texas businesses.",
+    "content": "The modern commercial and industrial landscape increasingly prioritizes not just efficiency, but also the health and productivity of occupants and processes. A recent case study highlighting an office building's success in tackling air quality through a multizone VAV system in Florida offers valuable insights that resonate profoundly with Texas's unique operational demands. For facilities across Parker County and beyond, implementing or upgrading to sophisticated VAV systems represents a strategic investment in creating optimized indoor environments. These systems, by precisely controlling airflow to various zones based on real-time demand, not only enhance indoor air quality (IAQ) but also deliver significant energy savings, directly impacting operational overhead and environmental stewardship. The shift towards such intelligent building systems underscores a broader industry trend where integrated technologies are paramount for sustained performance and long-term asset value.\n\nFrom an electrical engineering perspective, the robust and reliable operation of these advanced VAV systems is entirely dependent on a meticulously designed and expertly installed electrical infrastructure. This isn't merely about powering fans; it encompasses the precise integration of Variable Frequency Drives (VFDs) for motor control, sophisticated Building Management Systems (BMS) requiring secure data and power feeds, extensive sensor networks, and redundant power pathways for critical components. In Texas, where extreme temperatures can place immense strain on HVAC systems, ensuring the continuous, efficient, and resilient operation of VAV infrastructure is non-negotiable for commercial buildings, data centers, manufacturing plants, and other industrial facilities. Parker County Electrical Contractors specializes in designing and implementing the high-performance electrical systems necessary to support these advanced HVAC solutions, guaranteeing not just compliance and efficiency, but the uncompromising operational resilience that is foundational to your business's continuity and success.",
+    "original_title": "Case study: How an office building tackled air quality with VAV",
+    "image": "images/blog/post_290.jpg"
+  },
+  {
     "id": 289,
     "date": "Aug 15, 2026",
     "category": "Industrial Tech",
