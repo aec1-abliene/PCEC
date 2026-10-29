@@ -1,5 +1,15 @@
 [
   {
+    "id": 494,
+    "date": "Oct 29, 2026",
+    "category": "Industrial Tech",
+    "title": "FERC's Stricter Demand-Side Rules: A Precedent for Enhanced Grid Resilience in Texas C&I",
+    "summary": "FERC's approval of stricter penalties for non-performing demand-side resources in the MISO market signals an industry-wide push for unwavering reliability, compelling Texas commercial and industrial operations to critically assess their energy infrastructure and operational readiness.",
+    "content": "As Chief Electrical Engineer for Parker County Electrical Contractors (PCEC), I closely monitor shifts in federal energy policy and grid operator directives. The recent Federal Energy Regulatory Commission (FERC) decision to approve tougher penalties for non-performing demand-side resources within the Midcontinent Independent System Operator (MISO) market is a significant development. While MISO is distinct from Texas's ERCOT grid, this ruling underscores a critical industry trend: an escalating demand for operational reliability and accountability from all participants contributing to grid stability. This evolution directly impacts how commercial and industrial (C&I) entities in Texas must view and manage their electrical infrastructure, particularly those involved in or considering behind-the-meter generation, demand response programs, or advanced energy storage solutions. The underlying message is clear: commitments to grid support must be met with unyielding performance, or substantial financial consequences will ensue.\n\nThe concern raised by some FERC members, that these rules might inadvertently disincentivize well-performing demand response and behind-the-meter resources, highlights the delicate balance between accountability and market participation. For Texas C&I operations, this translates into an imperative for proactive, strategic electrical infrastructure planning. Companies leveraging or intending to deploy technologies like industrial load shedding, on-site cogeneration, or battery energy storage systems must ensure these assets are not only technologically capable but also backed by robust control systems, meticulous maintenance protocols, and precise forecasting to guarantee performance when called upon. PCEC specializes in engineering and implementing these resilient electrical systems, providing the expertise to navigate these complex regulatory landscapes and optimize your facilities for maximum reliability and compliance. Our commitment is to fortify your operational resilience, ensuring your electrical infrastructure stands as a strategic asset rather than a liability in an increasingly demanding energy market.",
+    "original_title": "FERC approves tougher MISO penalties for nonperforming demand-side resources",
+    "image": "images/blog/post_494.jpg"
+  },
+  {
     "id": 493,
     "date": "Oct 28, 2026",
     "category": "Industrial Tech",
