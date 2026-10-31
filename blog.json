@@ -1,5 +1,15 @@
 [
   {
+    "id": 500,
+    "date": "Oct 31, 2026",
+    "category": "Industrial Tech",
+    "title": "Operational Resilience in Texas: The Evolving Scrutiny of Grid Generation",
+    "summary": "Texas regulators are intensifying scrutiny on new gas plant proposals, signaling a critical shift towards comprehensive grid resilience and a diversified energy portfolio, directly impacting commercial and industrial power infrastructure across the state.",
+    "content": "The energy landscape in Texas, and indeed across the nation, is undergoing a profound transformation. Recent discussions among energy experts, including those from the Environmental Defense Fund and Minnesota\u2019s CURE, highlight a pivotal shift in regulatory scrutiny: the critical question for regulators is no longer simply whether utilities can justify another gas turbine, but rather how *all* proposed generation assets contribute to a truly resilient, diversified, and sustainable grid infrastructure. This signals a move away from siloed generation planning towards a holistic assessment that prioritizes operational reliability, grid stability, and long-term energy security, particularly crucial for Texas' rapidly expanding commercial and industrial sectors still navigating the lessons learned from past grid challenges.\n\nFor commercial and industrial entities in Texas, this evolving regulatory mandate carries significant implications for their electrical infrastructure and operational continuity. As the state moves towards a more scrutinized and diversified energy mix, the emphasis shifts to robust, intelligent, and adaptable on-site power solutions. This includes the strategic integration of distributed energy resources (DERs) such as advanced solar photovoltaic systems, co-generation, and increasingly sophisticated battery energy storage systems (BESS) to create resilient microgrids. Advanced switchgear, intelligent power management systems, and smart grid integration become not just advantageous, but essential for ensuring uninterrupted operations, predictable energy costs, and seamless compliance with future grid requirements. At Parker County Electrical Contractors, we stand at the forefront of this evolution, empowering Texas businesses to not only adapt but thrive by designing, implementing, and maintaining cutting-edge electrical infrastructure engineered for unmatched operational resilience in this new era of energy management.",
+    "original_title": "States must take a critical eye to gas plants proposed over clean energy",
+    "image": "images/blog/post_500.jpg"
+  },
+  {
     "id": 499,
     "date": "Oct 30, 2026",
     "category": "Industrial Tech",
@@ -197,7 +207,7 @@
     "summary": "A new federal directive favoring trade talks over tariffs for wind turbine imports carries significant implications for Texas's energy future, particularly for grid stability and the strategic planning of commercial and industrial electrical systems.",
     "content": "The recent directive from the White House to pursue trade negotiations rather than immediate tariffs on imported wind turbines, following a Section 232 probe, represents a pivotal development for the U.S. energy sector. A Section 232 investigation, designed to assess the impact of imports on national security, often presages protective trade measures. However, this administration's decision to prioritize diplomatic engagement, granting cabinet officials 180 days to report on progress, signifies a strategic shift towards a negotiated resolution rather than immediate punitive tariffs. This diplomatic course, while forestalling immediate cost increases, introduces a period of strategic uncertainty regarding long-term supply chain stability and pricing for critical renewable energy components.\n\nFor commercial and industrial enterprises across Texas, these policy dynamics carry profound implications for operational resilience. As the national leader in wind energy production, Texas's grid, managed by ERCOT, relies extensively on a stable, cost-effective supply of wind turbines and their associated infrastructure. While the deferral of immediate tariffs offers a temporary reprieve from potential price escalations, the ongoing negotiation process means that future availability, cost structures, and supply chain logistics for wind power assets remain in flux. This fluidity directly impacts long-term energy planning, capital investment in new electrical infrastructure, and the overarching grid stability crucial for sustaining uninterrupted industrial and commercial operations. PCEC emphasizes the necessity for proactive strategic planning to ensure robust, adaptable, and compliant electrical infrastructure solutions that mitigate these evolving supply-side risks.",
     "original_title": "Trump eschews tariffs for trade talks on wind turbine imports",
-    "image": "images/blog/post_480.jpg"
+    "image": "assets/logo.png"
   },
   {
     "id": 479,
