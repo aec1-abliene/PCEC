@@ -1,5 +1,15 @@
 [
   {
+    "id": 531,
+    "date": "Nov 11, 2026",
+    "category": "Industrial Tech",
+    "title": "Fortifying Texas Operations: The C&I Imperative in the Evolving Energy Landscape",
+    "summary": "The future of Texas grid resilience hinges on advanced demand response and Virtual Power Plant (VPP) programs, fundamentally reshaping how commercial and industrial operations manage their energy infrastructure for stability and savings.",
+    "content": "The shift towards a more dynamic and flexible energy grid is accelerating, a critical development for states like Texas that demand robust operational resilience. The emerging paradigm, as highlighted by industry leaders like Uplight\u2019s Gisela Glandt, emphasizes designing demand response (DR) and Virtual Power Plant (VPP) programs around how consumers\u2014especially large commercial and industrial (C&I) entities\u2014actually operate. This isn't merely about load shedding; it's about intelligent integration of distributed energy resources (DERs) like on-site generation, battery storage, and controllable loads into a cohesive, responsive network. For Texas, where grid stability and energy independence are constant priorities, understanding and actively participating in these evolving frameworks is no longer optional, but foundational to long-term operational security.\n\nFor Parker County's commercial and industrial sectors, this evolution presents significant opportunities and necessities. Your facility's electrical infrastructure\u2014from existing backup generators and solar arrays to sophisticated energy management systems and EV charging depots\u2014can be leveraged as a proactive asset within a VPP or DR program. By integrating these resources intelligently, C&I operations can not only enhance their own energy resilience, mitigating risks during peak demand or unexpected grid events, but also potentially generate new revenue streams through grid services. PCEC specializes in the expert design, installation, and modernization of the critical electrical systems required to enable this participation. We ensure your infrastructure is not just compliant, but optimized for performance, control, and maximum benefit, positioning your business at the forefront of Texas\u2019s energy future while safeguarding your operational continuity.",
+    "original_title": "No home left behind: Scaling VPP participation while maintaining customer control",
+    "image": "images/blog/post_531.jpg"
+  },
+  {
     "id": 530,
     "date": "Nov 11, 2026",
     "category": "Industrial Tech",
@@ -197,7 +207,7 @@
     "summary": "As U.S. battery demand is set to quadruple, the Department of Energy's Battery Manufacturing Accelerator signals a critical shift towards domestic supply chain resilience, directly impacting the operational stability and strategic planning for Texas's commercial and industrial electrical infrastructure.",
     "content": "The U.S. Department of Energy\u2019s \u2018Battery Manufacturing Accelerator\u2019 (BattMan) initiative represents a pivotal strategic move to fortify the domestic battery supply chain, addressing anticipated gaps as national battery demand is projected to quadruple within the coming years. For Parker County Electrical Contractors, this development is not merely an industry headline; it is a foundational shift with profound implications for the commercial and industrial electrical infrastructure across Texas. A robust, localized supply chain for advanced battery materials and components directly underpins the operational resilience and long-term viability of critical energy storage projects, from grid-scale solutions to localized industrial microgrids.\n\nFor Texas, a state at the vanguard of energy production and industrial expansion, the reliability of electrical infrastructure is paramount. Increased domestic battery manufacturing capacity ensures predictable access to critical components for industrial backup power systems, peak shaving solutions, and the rapidly expanding electric vehicle charging infrastructure for commercial fleets and heavy machinery. This stability in supply is crucial for mitigating project delays, controlling costs, and fostering innovation in energy management for data centers, manufacturing plants, and utilities operating within the ERCOT grid. As Chief Electrical Engineer, I recognize that securing this supply chain directly contributes to enhanced energy independence and fortifies our ability to deliver advanced, resilient electrical systems capable of supporting Texas's sustained growth and operational demands.",
     "original_title": "Can \u2018BattMan\u2019 secure the US battery manufacturing supply chain?",
-    "image": "images/blog/post_511.jpg"
+    "image": "assets/logo.png"
   },
   {
     "id": 510,
